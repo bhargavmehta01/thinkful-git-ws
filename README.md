@@ -6,7 +6,7 @@ hello world
 ## Git
 
 * What is Git?
-  * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
+  * Git is the most popular site for remotely saving our code and collaborating with other developers on open source projects
 * Local & Remote Branches
   * Local - branch stored on your personal computer
   * Remote - branch stored in a separate repository, like GitHub, Bitbucket, GitLab, etc
